@@ -1,0 +1,27 @@
+{
+  "nom": "fafa",
+  "pvMax": 100,
+  "pvCourants": 88,
+  "attaque": 10,
+  "defense": 5,
+  "xp": 50,
+  "niveau": 1,
+  "lieuActuel": "village",
+  "inventaire": [
+    {
+      "nom": "Epee rouilee",
+      "description": "Une vieille epee encore fonctionnelle.",
+      "poids": 3.0,
+      "valeur": 2,
+      "type": "Arme"
+    },
+    {
+      "nom": "Potion de soin",
+      "description": "Une potion de soin",
+      "poids": 0.5,
+      "valeur": 0,
+      "type": "Potion"
+    }
+  ],
+  "equipement": []
+}

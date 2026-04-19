@@ -1,0 +1,34 @@
+{
+  "nom": "Heros",
+  "pvMax": 120,
+  "pvCourants": 120,
+  "attaque": 13,
+  "defense": 15,
+  "xp": 0,
+  "niveau": 2,
+  "lieuActuel": "village",
+  "inventaire": [
+    {
+      "nom": "Armure de cuir",
+      "description": "Une armure legere mais resistante.",
+      "poids": 5.0,
+      "valeur": 5,
+      "type": "Armure"
+    },
+    {
+      "nom": "Casque de fer",
+      "description": "Un casque solide qui protege la tete.",
+      "poids": 2.0,
+      "valeur": 3,
+      "type": "Armure"
+    },
+    {
+      "nom": "Epee rouilee",
+      "description": "Une vieille epee encore fonctionnelle.",
+      "poids": 3.0,
+      "valeur": 2,
+      "type": "Arme"
+    }
+  ],
+  "equipement": []
+}
