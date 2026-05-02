@@ -1,0 +1,33 @@
+{
+  "nom": "fofo",
+  "pvMax": 120,
+  "pvCourants": 120,
+  "attaque": 13,
+  "defense": 7,
+  "xp": 0,
+  "niveau": 2,
+  "lieuActuel": "village",
+  "inventaire": [
+    {
+      "nom": "Herbes medicinales",
+      "description": "Une potion de soin",
+      "poids": 0.5,
+      "valeur": 0,
+      "type": "Potion"
+    },
+    {
+      "nom": "Petite potion",
+      "description": "Une potion de soin",
+      "poids": 0.5,
+      "valeur": 0,
+      "type": "Potion"
+    }
+  ],
+  "equipement": [
+    {
+      "emplacement": "arme",
+      "nom": "Epee rouilee",
+      "type": "Arme"
+    }
+  ]
+}
