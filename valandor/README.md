@@ -185,4 +185,4 @@ src/main/java/com/valandor/
 
 ## Auteur
 
-Ndeye Fatou Sène TOURE  : Projet réalisé dans le cadre du cours POO — M2 GPIs
+Ndeye Fatou Sène TOURE  : Projet réalisé dans le cadre du cours POO — M2 GPI

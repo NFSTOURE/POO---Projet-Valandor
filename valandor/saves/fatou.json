@@ -1,0 +1,57 @@
+{
+  "nom": "Fatou",
+  "pvMax": 140,
+  "pvCourants": 140,
+  "attaque": 16,
+  "defense": 17,
+  "xp": 270,
+  "niveau": 3,
+  "lieuActuel": "village",
+  "inventaire": [
+    {
+      "nom": "Herbes medicinales",
+      "description": "Une potion de soin",
+      "poids": 0.5,
+      "valeur": 0,
+      "type": "Potion"
+    },
+    {
+      "nom": "Epee longue",
+      "description": "Une epee bien forgee.",
+      "poids": 4.0,
+      "valeur": 5,
+      "type": "Arme"
+    },
+    {
+      "nom": "Grande Potion",
+      "description": "Une potion de soin",
+      "poids": 0.5,
+      "valeur": 0,
+      "type": "Potion"
+    },
+    {
+      "nom": "Potion de defense",
+      "description": "Une potion de defense",
+      "poids": 0.5,
+      "valeur": 0,
+      "type": "Potion"
+    }
+  ],
+  "equipement": [
+    {
+      "emplacement": "casque",
+      "nom": "Casque de fer",
+      "type": "Armure"
+    },
+    {
+      "emplacement": "armure",
+      "nom": "Armure de cuir",
+      "type": "Armure"
+    },
+    {
+      "emplacement": "arme",
+      "nom": "Epee rouilee",
+      "type": "Arme"
+    }
+  ]
+}

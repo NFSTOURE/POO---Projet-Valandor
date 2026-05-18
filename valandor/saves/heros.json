@@ -1,7 +1,7 @@
 {
   "nom": "Heros",
-  "pvMax": 120,
-  "pvCourants": 120,
+  "pvMax": 100,
+  "pvCourants": 100,
   "attaque": 13,
   "defense": 15,
   "xp": 0,
@@ -10,17 +10,17 @@
   "inventaire": [
     {
       "nom": "Armure de cuir",
-      "description": "Une armure legere mais resistante.",
-      "poids": 5.0,
-      "valeur": 5,
-      "type": "Armure"
+      "description": "Une potion de soin",
+      "poids": 0.5,
+      "valeur": 0,
+      "type": "Potion"
     },
     {
       "nom": "Casque de fer",
-      "description": "Un casque solide qui protege la tete.",
-      "poids": 2.0,
-      "valeur": 3,
-      "type": "Armure"
+      "description": "Une potion de soin",
+      "poids": 0.5,
+      "valeur": 0,
+      "type": "Potion"
     },
     {
       "nom": "Epee rouilee",
